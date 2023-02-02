@@ -1,2 +1,1 @@
-# prep-course
-repositorio de prueba del prepcourse dehenry
+este es una prueba de como crear un repositorio 
